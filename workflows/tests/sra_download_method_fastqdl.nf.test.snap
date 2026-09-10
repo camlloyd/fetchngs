@@ -135,7 +135,7 @@
             ],
             {
                 "FASTQDL": {
-                    "fastq-dl": "3.0.1"
+                    "fastq-dl": "4.0.1"
                 },
                 "MULTIQC_MAPPINGS_CONFIG": {
                     "python": "3.9.5"
@@ -148,7 +148,7 @@
                 }
             }
         ],
-        "timestamp": "2026-08-13T14:26:52.62902407",
+        "timestamp": "2026-09-10T14:28:45.509719",
         "meta": {
             "nf-test": "0.9.5",
             "nextflow": "26.04.4"
